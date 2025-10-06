@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on GitHub.
+# About my-first-project.
+# This is in relation with the course MLIS 210.
