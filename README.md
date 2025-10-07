@@ -1,2 +1,2 @@
 # About my-first-project.
- This is in relation with the course MLIS 210.
+ This repository is an example and in relation with the course MLIS 210.
